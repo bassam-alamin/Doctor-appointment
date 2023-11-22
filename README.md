@@ -1,6 +1,6 @@
 ### Version: 1.0.0
 
-# Docto appointment app
+# Doctor appointment app
 This is a combination of bootstrap and Laravel
 
 ## How To Run:  

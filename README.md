@@ -5,10 +5,15 @@ This is a combination of bootstrap and Laravel
 
 ## How To Run:  
 1. Make sure you have php and laravel installed the easiest way is to use xampp or lampp if using linux
-   
-3. Create database
 
-4. create .env file and copy contents of .env.example.
+2. Then run this commands
+
+   - composer install
+   - npm install && npm run dev
+   
+4. Create database on your mysql client
+
+5. create .env file and copy contents of .env.example.
    Update these values to point to your db
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
